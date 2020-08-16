@@ -1,1 +1,2 @@
 0.0.0.0 imasdk.googleapis.com/js/sdkloader/ima3.js
+collect.igodigital.com
