@@ -1,2 +1,1 @@
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 collect.igodigital.com
